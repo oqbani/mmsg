@@ -1,0 +1,498 @@
+{
+  "header": {
+    "horaire": "Opening hours: From 08:30 to 18:00"
+  },
+  "navbar": {
+    "0": {
+      "title": "CARES",
+      "slug": "soins",
+      "souscategorie": [
+        { "title": "GENERAL MEDICINE", "slug": "medecine-generale" },
+        { "title": "NURSING CARE", "slug": "soins-infirmiers" },
+        { "title": "SAMPLE COLLECTION", "slug": "prelevements" },
+        { "title": "PHYSIOTHERAPY", "slug": "kinesitherapie" },
+        { "title": "PSYCHOTHERAPY", "slug": "psychotherapie" },
+        {
+          "title": "NUTRITION AND DIETETICS",
+          "slug": "nutrition-et-dietetique"
+        },
+        { "title": "SPEECH THERAPY", "slug": "logopedie" },
+        { "title": "OTHER SPECIALTIES", "slug": "autres-specialites" }
+      ]
+    },
+    "1": {
+      "title": "INFORMATIONS",
+      "slug": "informations",
+      "souscategorie": [
+        { "title": "ABOUT US", "slug": "#a-propos-de-nous" },
+        { "title": "OPENING HOURS", "slug": "#horaires" },
+        { "title": "PAYMENT", "slug": "#paiement" },
+        { "title": "TEAM", "slug": "#equipe" },
+        { "title": "CPAS", "slug": "#cpas" },
+        { "title": "FAQ", "slug": "#faq" },
+        { "title": "USEFUL LINKS", "slug": "#liens-utiles" }
+      ]
+    }
+  },
+  "nav-content": {
+    "accueil": "HOME",
+    "btn-rdv": "SCHEDULE A MEETING"
+  },
+  "modal": {
+    "rdv-title": "APPOINTMENT REQUEST",
+    "presc-title": "ASK FOR PRESCREPTION",
+    "tel-title": "CONTACT NUMBER",
+    "tel-btn": "CALL US",
+
+    "medecins": "Doctors",
+    "form-title": "CONTACT FORM",
+    "form-presc": "PRESCRIPTION FORM",
+    "form-candida": "JOBS AND INTERNSHIPS",
+    "form-nom": "Last Name",
+    "form-prenom": "First Name",
+    "form-tel": "Phone Number",
+    "form-medecin": "Doctor",
+    "form-email": "Email",
+    "form-date": "Preferred Date/Time",
+    "form-date-naissance": "Date of birth",
+    "form-message": "Additional Notes (optional)",
+    "form-msg-presc" : "Enter the name of the medication plus the desired quantity.",
+    "form-btn": "SEND",
+    "form-file": "Select a file"
+  },
+  "prescription": {
+    "note": "Please Note:",
+    "p-1": "- This service is only for patients with chronic treatment",
+    "p-2": "- The doctor reserves the right to respond to your request or not",
+    "p-3": "- The prescription is available 24 hours after the request, excluding holidays"
+  },
+  "candidature": {
+    "title": "Jobs & Internships",
+    "content": "In service to its patients, Maison Médicale Saint-Guidon is continuously seeking new profiles.",
+    "btn": "Apply Now",
+    "slug": "",
+    "note": "To enhance and consolidate its development in the service of its patients, Maison Médicale Jubilé is continuously looking for the following profiles:",
+    "h-1": "Licensed General Practitioners",
+    "h-2": "General Medicine Assistants",
+    "h-3": "Physiotherapists",
+    "h-4": "Nurses",
+    "h-5": "Dentists",
+
+    "conditions": "Our Offer:",
+    "p-1": "Conditions allowing for a fulfilling family life",
+    "p-2": "Working in a multidisciplinary center, across multiple sites, with a large patient base",
+    "p-3": "Developing a reference practice",
+    "p-4": "Permanent interactions between caregivers",
+    "p-5": "No investment in equipment required",
+    "p-6": "Secretarial support (billing, appointments, etc.) provided",
+    "p-7": "Flexible type of collaboration: to be discussed"
+  },
+
+  "modal-validation": {
+    "nom": "Name is required",
+    "prenom": "First name is required",
+    "date": "time must be between 8:30 am and 18:00 pm",
+    "email-valid": "Invalid email",
+    "email": "Email is required",
+    "message": "Message is required",
+    "phone": "Phone number is required",
+    "medecins": "You must choose a doctor",
+    "file": "Select a file"
+  },
+  "Slider": {
+    "title": "Medical House",
+    "soustitle": "SAINT-GUIDON",
+    "content": "The MMSG is a medical house providing you with a multidisciplinary team to best meet your healthcare needs.",
+    "title-rdv": "MAKE AN APPOINTMENT",
+    "p-rdv": "Make an appointment by phone at 02 627 18 00 or fill out the form on our website.",
+    "btn-rdv": "MAKE APPOINTMENT",
+    "title-press": "PRESCRIPTION",
+    "p-press": "Request a prescription from your doctor's appointment. This service is for patients with chronic treatment only.",
+    "btn-press": "PRESCRIPTION"
+  },
+  "equipe": {
+    "title": "Our",
+    "soustitle": "care team is here for you"
+  },
+
+  "soins": [
+    {
+      "title": "General Medicine",
+      "content": "General medicine is a medical specialty that provides primary medical care and follow-up for patients. The general practitioner (also called a family doctor) is most often consulted to diagnose a disease before treating it or referring the patient to another specialist.",
+      "img": "/general-1.jpg",
+      "slug": "medecine-generale"
+    },
+    {
+      "title": "Nursing Care",
+      "content": "Nursing care is provided to individuals of all ages, whether sick or healthy. It focuses on promoting health, preventing illness, and providing care to the sick. It also encompasses other areas such as research, health education, and patient health system management.",
+      "img": "/nursing-1.webp",
+      "slug": "soins-infirmiers"
+    },
+    {
+      "title": "Sampling",
+      "content": "Our sample collection center allows for all types of sample collections.",
+      "img": "/prelevement.webp",
+      "slug": "prelevements"
+    },
+    {
+      "title": "Physiotherapy",
+      "content": "Physiotherapy is a paramedical discipline that uses massage, movement, and physical exercises to strengthen, maintain, or restore functional abilities. The Jubilee Medical Center provides a specialized multidisciplinary team with both male and female therapists.",
+      "img": "/kinesithearpy-2.webp",
+      "slug": "kinesitherapie"
+    },
+    {
+      "title": "Psychotherapy",
+      "content": "Clinical psychology is the science that deals with individual and social psychology, both normal and pathological. It covers all age groups from newborns, children, adolescents, mature adults, and finally, the elderly. The clinical psychologist performs three main functions: diagnosis, training, and expertise, providing the psychologist's perspective to other specialists. The psychotherapist contributes to the well-being of patients through solid psychoanalytic experience and personal dedication.",
+      "img": "/psychotherapie.jpeg",
+      "slug": "psychotherapie"
+    },
+    {
+      "title": "Nutrition and Dietetics",
+      "content": "Dietetics is the foundation of the principles of balanced nutrition, promoting good health through food knowledge. Nutrition, on the other hand, is a science that analyzes the composition of foods, nutrients, and how they are assimilated by the body and transformed into energy. Both concepts are necessary for a comprehensive understanding of our dietary needs.",
+      "img": "/nutrition-2.webp",
+      "slug": "nutrition-et-dietetique"
+    },
+    {
+      "title": "Speech Therapy",
+      "content": "Speech therapy is the science of communication and language in the broadest sense.",
+      "img": "/speech-1.jpg",
+      "slug": "logopedie"
+    }
+  ],
+  "soins-content": {
+    "title": "OUR",
+    "soustitle": "CARE",
+    "desc": "We are here for your care.",
+    "soins-title": "Our",
+    "soins-soustitle": "Medical Services",
+    "soins-desc": "The Maison Médicale Saint-Guidon is composed of a team of general practitioners, nurses, and physiotherapists. Each ensures to provide you with quality care services to ensure your good health.",
+    "btn": "Learn more",
+    "btn-soins": "SEE ALL SERVICES"
+  },
+  "m-generale": {
+    "title": "GENERAL MEDICINE,",
+    "soustitle": "WHAT IS IT?",
+    "desc": "General medicine is a medical specialty that provides primary care and general medical treatment to patients. The general practitioner (also known as a family doctor) is typically consulted to diagnose an illness before treating it or referring the patient to another specialist.",
+    "infos-title": "PRACTICAL INFORMATION",
+    "infos": "The Medical Center offers several general practitioners available by appointment during opening hours to its registered patients.",
+    "Horaire-title": "HOURS",
+    "horaire-1": "At the medical center by appointment during opening hours",
+    "horaire-2": "Home visits by appointment"
+  },
+  "infirmier": {
+    "title": "NURSING CARE,",
+    "soustitle": "WHAT IS IT?",
+    "desc": "Nursing care involves providing care to individuals of all ages, whether they are ill or healthy. It focuses on health promotion, disease prevention, and caring for the sick. Nursing also encompasses other areas such as research, health education, and managing patient healthcare systems.",
+    "infos-title": "ACTIVITIES",
+    "activite-1": "Routine care",
+    "activite-2": "Specialized care",
+    "activite-3": "Home nursing care",
+    "activite-4": "Other nursing care",
+    "Horaire-title": "HOURS",
+    "horaire-1": "By appointment"
+  },
+  "prelevements": {
+    "title": "SAMPLE COLLECTION,",
+    "soustitle": "WHAT IS IT?",
+    "desc": "Our sample collection center offers a wide range of sample collections:",
+    "desc-1": "Smear tests",
+    "desc-2": "Blood draws",
+    "desc-3": "PCR Covid-19 testing",
+    "desc-4": "Allergy screening",
+    "desc-5": "Lactose tolerance test",
+    "desc-6": "Urine, stool, semen samples, etc.",
+    "desc-7": "Sexually transmitted disease screening",
+    "desc-8": "Others ...",
+    "infos-title": "PRACTICAL INFORMATION",
+    "infos": "To undergo sample collection, a request from a physician is required.",
+    "Horaire-title": "HOURS",
+    "horaire-1": "At the medical center by appointment during opening hours",
+    "horaire-2": "Home visits by appointment"
+  },
+  "kine": {
+    "title": "PHYSIOTHERAPY",
+    "soustitle": "WHAT IS IT?",
+    "desc": "Physiotherapy is a paramedical discipline that utilizes massages, movements, and physical exercises to strengthen, maintain, or restore functional abilities. Maison Medicale Jubilé provides a specialized multidisciplinary team available to both men and women.",
+    "infos-title": "ACTIVITIES",
+    "activite-1": "Rehabilitation after surgery",
+    "activite-2": "Home service for patients unable to travel",
+    "activite-3": "Post-natal therapy",
+    "activite-4": "Others ...",
+    "Horaire-title": "HOURS",
+    "horaire-1": "By appointment"
+  },
+  "psy": {
+    "title": "CLINICAL PSYCHOLOGY",
+    "soustitle": "WHAT IS IT?",
+    "desc": "Clinical psychology is the science that deals with individual and social psychology, both normal and pathological; it encompasses all age groups from newborns, children, adolescents, mature adults, to the elderly. The clinical psychologist performs three main functions: diagnosis, training, and expertise, providing the psychologist's perspective to other specialists. The psychotherapist contributes to patients' well-being through solid psychoanalytic experience and personal dedication.",
+    "infos-title": "PAYMENT",
+    "infos": "Psychotherapy services are not covered by the standard package; patients at the medical center receive a preferential rate.",
+    "Horaire-title": "HOURS",
+    "horaire-1": "At the medical center by appointment during opening hours"
+  },
+  "nutrition": {
+    "title": "NUTRITION AND DIETETICS",
+    "soustitle": "WHAT IS IT?",
+    "desc": "Dietetics forms the foundation of balanced dietary rules, promoting good health through knowledge of foods. Nutrition, on the other hand, is a science that analyzes food composition, nutrients, and how they are assimilated by the body and converted into energy. Both concepts are essential for a comprehensive understanding of our dietary needs.",
+    "infos-title": "PAYMENT",
+    "infos": "Nutritional therapy services are not covered by the standard package; patients at the medical center receive a preferential rate.",
+    "Horaire-title": "HOURS",
+    "horaire-1": "At the medical center by appointment during opening hours"
+  },
+  "logopedie": {
+    "title": "SPEECH THERAPY",
+    "soustitle": "WHAT IS IT?",
+    "desc": "Speech therapy is the science of communication and language in the broadest sense.",
+    "desc-": "Its areas of specialization are vast and numerous:",
+    "desc-1": "All pathologies related to oral language and voice,",
+    "desc-2": "All pathologies related to written language,",
+    "desc-3": "All pathologies related to logico-mathematical disorders,",
+    "desc-4": "All pathologies related to swallowing and",
+    "desc-5": "All pathologies related to cognitive disorders,",
+    "desc--": "Irrespective of their origin, in children, adolescents, adults, and the elderly.",
+    "desc---": "The intervention of the speech therapist involves a preventive and evaluative approach for the aforementioned disorders. They are also tasked with developing, restoring, and/or preserving the communication skills of their patients.",
+    "desc----": "To achieve this, they consider the patient's life context and needs. They also rely on scientific data while demonstrating respect, kindness, and empathy, which are fundamental professional values.",
+    "infos-title": "PRACTICAL INFORMATION",
+    "infos": "To undergo speech therapy, a referral from a physician is required.",
+    "Horaire-title": "HOURS",
+    "horaire-1": "At the medical center by appointment during opening hours",
+    "horaire-2": "Home visits by appointment"
+  },
+  "autres-soins": {
+    "title": "OTHER",
+    "soustitle": "TREATMENTS"
+  },
+  "contact": {
+    "contact": "CONTACT",
+    "title": "CONTACT",
+    "soustitle": "US",
+
+    "horaire-title": "Opening hours",
+    "horaire": "From 08:30 to 18:00",
+    "media": "Socials",
+
+    "form-nom": "Name",
+    "form-prenom": "First Name",
+    "form-tel": "Phone Number",
+    "form-email": "Email",
+    "form-message": "Your Message",
+    "form-adress": "Address",
+    "form-btn": "SEND"
+  },
+
+  "infos": [
+    {
+      "title": "About Us",
+      "content": "The entire team at Maison Médicale Jubilé strives to best meet your needs and requirements.",
+      "btn": "Learn More",
+      "slug": "informations/#a-propos-de-nous"
+    },
+    {
+      "title": "The Team",
+      "content": "A multidisciplinary medical team to provide comprehensive patient care.",
+      "btn": "Learn More",
+      "slug": "informations/#equipe"
+    },
+    {
+      "title": "CPAS",
+      "content": "Maison Médicale Jubilé is affiliated with the CPAS service of Molenbeek-Saint-Jean.",
+      "btn": "Learn More",
+      "slug": "informations/#cpas"
+    }
+  ],
+  "infos-content": {
+    "infos": "OUR INFORMATIONS",
+    "title": "OUR",
+    "soustitle": "INFORMATIONS",
+    "btn": "MORE INFORMATIONS",
+
+    "apropos": "ABOUT US",
+    "apropos-soustitle": "ABOUT US",
+    "apropos-desc": "Keen on meeting your demands and needs as best as possible, Maison Médicale Jubilé provides you with a multidisciplinary team of qualified specialists capable of offering various services in necessary fields. We strive to carry out these individual supports with a broader public health perspective; health promotion. Our proximity to the local public fosters better listening towards them, thus facilitating our intervention in managing their health.",
+    "apropos-mission-title": "OUR MISSION",
+    "apropos-mission-desc": "MMSG's mission is to leverage its local presence to treat each patient comprehensively, considering their physical, as well as social, psychological, and economic state, emphasizing the development of autonomy. Its proximity allows all patients to take their place and express their needs and fears; the caregiver-patient relationship is valued.",
+    "apropos-vision-title": "OUR VISION",
+    "apropos-vision-desc": "Neither budget, time, nor distance should hinder your access to healthcare. That's why we created Maison Médicale Saint-Guidon.",
+
+    "schedule-title": "OUR",
+    "schedule-soustitle": "OPENING HOURS",
+    "schedule-btn": "MAKE AN APPOINTMENT",
+
+    "paiment": "PAYMENT",
+    "paiment-title": "Services and Payment Terms",
+    "paiment-desc": "In a flat-rate medical home, patients do not pay fees for consultations and home visits. These services are covered by the flat rate, with the health insurance company paying a fixed monthly amount to the medical home to cover the patient's care. Only specialist consultations are not included in the flat rate.",
+    "paiment-inscription-title": "Registration",
+    "paiment-inscription-desc": "Sign up to benefit from the advantages of being a member of Maison Médicale Jubilé",
+    "paiment-consultation-title": "Consultation",
+    "paiment-consultation-desc": "You have chosen and reserved your consultation; you can benefit from our services",
+    "paiment-regle-title": "It's Settled",
+    "paiment-regle-desc": "If you have received services from general medicine or nursing; for you, it's settled, there's nothing to pay!",
+
+    "candidature": "FOR",
+    "candidature-soustitle": "APPLICATION",
+    "candidature-head": "To expand and strengthen its development in the service of its patients, Maison Médicale Jubilé is continuously seeking the following profiles:",
+    "candidature-job-1": "Accredited General Practitioners",
+    "candidature-job-2": "General Medicine Assistants",
+    "candidature-job-3": "Physiotherapists",
+    "candidature-job-4": "Nurses",
+    "candidature-job-5": "Dentists",
+    "candidature-btn": "APPLICATION",
+
+    "equipe": "OUR TEAM",
+    "equipe-soustitle": "CAREGIVERS",
+    "equipe-dr-1": "Dr. ZEKHNINI Mohammed ",
+    "equipe-dr-2": "Dr. WASHIWAPA Rachel",
+    "equipe-dr-3": "Dr. EL HAJJAMI Fatiha ",
+    "equipe-dr-4": "Dr. LIGOT Nadine ",
+    "equipe-dr-5": "Dr. RAMADAN Sobhi",
+    "equipe-dr-6": "Dr. CHERQUAOUI Ibtissam",
+    "equipe-dr-7": "Dr. PIEQ Clémence ",
+    "equipe-dr-8": "Dr. BENENGUEYE Lorenzo",
+    "equipe-dr-9": "Dr NINDABA Divine",
+    "equipe-dr-10": "Dr.ELKHIYAT Iman ",
+    "equipe-dr-11": "Dr BELKAHIA Walid ",
+    "equipe-job": "DOCTOR",
+    "img-1": "/3774299.png",
+
+    "cpas-soustitle": "",
+
+    "faq": "FAQ",
+    "question-1": "What is a Maison Médicale?",
+    "answer-1": "A Maison Médicale is a health center composed of a multidisciplinary team that aims to provide the patient with comprehensive long-term care. It makes available to the patient the various services they usually need in terms of healthcare while valuing the caregiver-patient relationship.",
+
+    "question-2": "How do I register?",
+    "answer-2": "Present yourself at the reception with an identity document without making an appointment. In the case of a minor child, they can be registered by a parent without needing to be present.",
+
+    "question-3": "How does the flat-rate system work?",
+    "answer-3": "The traditional financing method for healthcare is the fee-for-service system. This system involves paying the healthcare provider and then being partially reimbursed by the health insurance company.",
+
+    "question-4": "How much does it cost?",
+    "answer-4": "It costs you nothing at all! The health insurance company pays a fixed monthly amount to the medical home for your care.",
+
+    "question-5": "What services are included in the flat rate?",
+    "answer-5-1": "General medicine (consultations, home visits, procedures are paid for by the health insurance company)",
+    "answer-5-2": "Nursing care (including at home)",
+
+    "question-6": "Am I allowed to see another doctor?",
+    "answer-6": "You can consult other specialist doctors outside of the Maison Médicale and you will be reimbursed normally. However, you cannot seek consultations outside of the medical home for services included in the flat rate, namely general medicine and nursing care.",
+
+    "question-7": "Have other questions?",
+    "answer-7": "Certainly, feel free to contact us for more information.",
+    "answer-7-btn": "APPLICATION"
+  },
+
+  "blog": [
+    {
+      "title": "Health News in 2024!",
+      "date": "juin 21, 2023 à 08:12",
+      "cat": "News",
+      "content": "Over-the-counter antibiotics, reimbursed female condoms, single-dose medications... Several healthcare measures will take effect starting January 1, 2024.",
+      "st-1": "Sale of Single-Dose Medications",
+      "c-st-1": "In case of supply shortages, pharmacists will be required to dispense medications in single doses. This measure was taken to avoid stock shortages experienced last winter. Pharmacies will need to provide the appropriate quantity to patients and prevent unfinished tablets from expiring in our cabinets.",
+      "st-2": "Over-the-Counter Antibiotics",
+      "c-st-2": "Another novelty in pharmacies. In case of sore throats or cystitis, pharmacists will be able to dispense antibiotics, which were previously only available by prescription. They will need to conduct a preliminary test (TROD) to ensure that there is indeed a bacterial origin. This expansion of competencies aims to address the difficulty for French people to find a doctor. However, it is contested by many doctors who consider it a 'quick fix' (cystitis sometimes requires a clinical examination), as it is a way to 'circumvent' the problem (the difficulty of recruiting practitioners) at the expense of the quality of care.",
+      "st-3": "End of Waiting Day for Miscarriage",
+      "c-st-3": "Starting January 1, 2024, women on sick leave after a miscarriage will no longer have a salary deduction. Daily allowances will be paid from the first day of leave, aiming to better support them after this ordeal. In France, approximately 200,000 women are affected each year.",
+      "st-4": "Limiting Sick Leave",
+      "c-st-4": "To combat the increase in expenses related to sick leave, the government has limited to three days the duration of sick leave prescribed by teleconsultation (unless it is your attending physician). It had gone even further in its approach by allowing the company's appointed medical controller to suspend the payment of allowances if the leave was deemed unjustified, but the Constitutional Council fortunately censored this measure, considered by several general practitioner unions as an 'unacceptable monitoring'. By making the employer both judge and 'party', it struck a blow to one of the basic principles of our public health, solidarity (anyone unable to work due to their physical or mental condition has the right to obtain suitable means of existence from the community). And in a context of physician shortage, it is clear that organizing counter-visits is clearly not appreciated...",
+      "st-5": "Medical Carpooling",
+      "c-st-5": "Still aiming to save money, the medical transportation of patients (light medical vehicle or licensed taxis) will now be collective! Anyone who refuses carpooling, without valid reason, will have to pay in advance and will be reimbursed based on the price of a shared trip.",
+      "st-6": "Free Female Condoms",
+      "c-st-6": "Let's talk about expenses now! The Social Security system also plans to allocate part of its budget to prevention (very useful when it comes to long-term savings). After male condoms last year, it's finally time for female condoms to be provided free of charge. They will be fully covered by Social Security for those under 26 starting January 1. This measure is part of a strategy to prevent sexually transmitted diseases.",
+      "st-7": "Partial Reimbursement of Menstrual Cups and Underwear",
+      "c-st-7": "Reusable period protections will now be covered by Social Security for those under 26 and beneficiaries of the solidarity health insurance in 2024. However, we will have to wait for the publication of a list of models eligible for reimbursement.",
+      "st-8": "Therapeutic Cannabis",
+      "c-st-8": "The 2024 Social Security budget grants 'temporary status' for five years to therapeutic cannabis (treatment for pain and anxiety). It is already authorized in several European countries.",
+      "slug": "",
+      "img": "/blog-img-1.jpg"
+    },
+    {
+      "title": "Steam Cooking: Should You Adopt It?",
+      "date": "June 21, 2023 at 08:12",
+      "cat": "Nutrition",
+      "content": "Since the discovery of fire in prehistoric times, humans have developed various methods of cooking their food. But what is the benefit of heating food before eating it? Cooking food makes it more digestible and easier to chew (1). Raw, some foods contain antinutritional factors that cooking will destroy. For example, Dr. Juliette Pouyat explains in the guide 'The Right Choice for Cooking,' 'the starch in pasta or rice becomes digestible after boiling in water, thanks to a modification of its structure that is more favorable to the action of amylase, which breaks down starch into glucose molecules.' The temperature also denatures proteins, unfolding their structure and facilitating the action of digestive enzymes. We also cook food to make them edible, destroy harmful microorganisms, and preserve them better. Cooking also produces pleasant aromas that come from chemical reactions grouped under the name Maillard reaction. But this reaction has a double-edged sword: it leads to flavors highly appreciated by consumers, but the molecules involved are suspected to promote the development of certain cancers or inflammatory reactions. However, cooking can lead to a degradation of the nutritional quality of the food, with a loss of vitamins denatured by heat, and the appearance of undesirable compounds. For healthy cooking, the benefits of steam cooking are often praised.",
+      "slug": "steam-cooking-should-you-adopt-it",
+      "img": "/nutrition-blog-1.webp"
+    },
+    {
+      "title": "Health News in 2024!",
+      "date": "juin 21, 2023 à 08:12",
+      "cat": "News",
+      "content": "Over-the-counter antibiotics, reimbursed female condoms, single-dose medications... Several healthcare measures will take effect starting January 1, 2024.",
+      "slug": "",
+      "img": "/blog-img-3.jpg"
+    },
+    {
+      "title": "Health News in 2024!",
+      "date": "juin 21, 2023 à 08:12",
+      "cat": "News",
+      "content": "Over-the-counter antibiotics, reimbursed female condoms, single-dose medications... Several healthcare measures will take effect starting January 1, 2024.",
+      "slug": "",
+      "img": "/blog-img-4.jpg"
+    },
+    {
+      "title": "Health News in 2024!",
+      "date": "juin 21, 2023 à 08:12",
+      "cat": "News",
+      "content": "Over-the-counter antibiotics, reimbursed female condoms, single-dose medications... Several healthcare measures will take effect starting January 1, 2024.",
+      "slug": "",
+      "img": "/doctors-bg-1.jpg"
+    },
+    {
+      "title": "Health News in 2024!",
+      "date": "juin 21, 2023 à 08:12",
+      "cat": "News",
+      "content": "Over-the-counter antibiotics, reimbursed female condoms, single-dose medications... Several healthcare measures will take effect starting January 1, 2024.",
+      "slug": "",
+      "img": "/doctors-bg-4.jpg"
+    },
+    {
+      "title": "Health News in 2024!",
+      "date": "juin 21, 2023 à 08:12",
+      "cat": "News",
+      "content": "Over-the-counter antibiotics, reimbursed female condoms, single-dose medications... Several healthcare measures will take effect starting January 1, 2024.",
+      "slug": "",
+      "img": "/blog-img-3.jpg"
+    },
+    {
+      "title": "Health News in 2024!",
+      "date": "juin 21, 2023 à 08:12",
+      "cat": "News",
+      "content": "Over-the-counter antibiotics, reimbursed female condoms, single-dose medications... Several healthcare measures will take effect starting January 1, 2024.",
+      "slug": "",
+      "img": "/blog-img-4.jpg"
+    }
+  ],
+  "blog-content": {
+    "title": "OUR",
+    "soustitle": "POSTS",
+    "blog": "BLOG",
+    "btn": "VIEW ALL BLOG POSTS",
+    "search": "SEARCH",
+    "dernierpost": "LATEST POSTS",
+    "gallery": "PHOTOS"
+  },
+  "footer": {
+    "about": "Committed to meeting your demands and needs, Maison Médicale Saint-Guidon provides you with a multidisciplinary team that shares this objective. Our qualified specialists offer various services in necessary domains.",
+    "horaire": "Opening hours: From 08:30 to 18:00",
+    "address": "187, Rue Wayez, Brussels, Belgium",
+    "tel": "+32 2 527 97 90",
+    "email": "infos@mmsg.be",
+
+    "mmsg": "MMSG",
+    "li-1": "JOBS AND INTERNSHIPS",
+    "li-2": "MEDICAL CARE",
+    "li-3": "NEWS",
+    "li-4": "TEAM",
+    "li-5": "MMSG",
+
+    "useful_links": "USEFUL LINKS",
+    "contact": "CONTACT",
+    "faq": "FAQ",
+    "cpas": "CPAS",
+    "prescription": "PRESCRIPTION",
+    "appointment": "APPOINTMENT",
+
+    "copy_right": "© 2024 Copyright Maison Médicale Saint-Guidon - VAT BE 0547.690.704"
+  }
+}

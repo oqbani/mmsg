@@ -1,0 +1,490 @@
+{
+  "header": {
+    "horaire": "Horaire d’ouverture : De 08h30 à 18h"
+  },
+  "navbar": [
+    {
+      "title": "SOINS",
+      "slug": "soins",
+      "souscategorie": [
+        { "title": "MÉDECINE GÉNÉRALE", "slug": "medecine-generale" },
+        { "title": "SOINS INFIRMIERS ", "slug": "soins-infirmiers" },
+        { "title": "PRÉLÈVEMENTS", "slug": "prelevements" },
+        { "title": "KINÉSITHÉRAPIE ", "slug": "kinesitherapie" },
+        { "title": "PSYCHOTHÉRAPIE ", "slug": "psychotherapie" },
+        {
+          "title": "NUTRITION ET DIÉTÉTIQUE",
+          "slug": "nutrition-et-dietetique"
+        },
+        { "title": "LOGOPÉDIE", "slug": "logopedie" },
+        { "title": "AUTRES SPÉCIALITÉS ", "slug": "autres-specialites" }
+      ]
+    },
+    {
+      "title": "INFORMATIONS",
+      "slug": "informations",
+      "souscategorie": [
+        { "title": "A PROPOS DE NOUS", "slug": "#a-propos-de-nous" },
+        { "title": "HORAIRES", "slug": "#horaires" },
+        { "title": "PAIMENT", "slug": "#paiement" },
+        { "title": "ÉQUIPE", "slug": "#equipe" },
+        { "title": "CPAS", "slug": "#cpas" },
+        { "title": "FAQ", "slug": "#faq" },
+        { "title": "LIENS UTILES", "slug": "#liens-utiles" }
+      ]
+    }
+  ],
+  "nav-content": {
+    "accueil": "ACCUEIL",
+    "btn-rdv": "PRENDRE RDV"
+  },
+  "modal": {
+    "rdv-title": "DEMANDE DE RENDEZ-VOUS",
+    "presc-title": "DEMANDE DE PRESCREPTION",
+    "candida-title": "EMPLOIS ET STAGES",
+    "tel-title": "NUMERO DE CONTACT",
+    "tel-btn": "APPELEZ",
+
+    "medecins": "Médecins",
+    "form-title": "FORMULAIRE DE CONTACT",
+    "form-presc": "FORMULAIRE DE PRESCRIPTION",
+    "form-msg-presc": "Saisissez le nom du médicament plus la quantité désirée!!",
+    "form-candida": "FORMULAIRE D'EMPLOIS ET DE STAGES",
+    "form-nom": "Nom",
+    "form-prenom": "Prénom",
+    "form-tel": "Numéro de téléphone",
+    "form-medecin": "Médecins",
+    "form-email": "Email",
+    "form-date": "Date/Heure souhaiter",
+    "form-date-naissance": "Date de naissance",
+    "form-message": "Notes supplémentaires (facultatif)",
+    "form-btn": "ENVOYER",
+    "form-file": "Sélectionner un dossier"
+  },
+  "prescription": {
+    "note": "À Noter ;",
+    "p-1": "Ce service est pour les patients qui ont un traitement chronique uniquement",
+    "p-2": "Le médecin se préserve le droit de répondre ou non à votre demande ",
+    "p-3": "La prescription est disponible 24h après la demande hors jours fériés "
+  },
+
+  "candidature": {
+    "title": "Jobs & Stages",
+    "content": "Au service de ses patients, la maison médicale Saint Guidon est continuellement à la recherche de nouveaux profils.",
+    "btn": "Candidature",
+    "slug": "candidature",
+    "note": "Pour accroître et consolider son développement au service de ses patients, la maison médicale Saint-Guidon est continuellement à la recherche des profils suivants : ",
+    "h-1": "Médecins généralistes agrées",
+    "h-2": "Assistants en médecine générale",
+    "h-3": "Kinésithérapeutes",
+    "h-4": "Infirmiers",
+    "h-5": "Dentistes",
+
+    "conditions": "Notre proposition :",
+    "p-1": "Des conditions permettant une vie familiale épanouie",
+    "p-2": "Travailler dans un centre pluridisciplinaire, multi sites, avec une grosse patientèle",
+    "p-3": "Développer une pratique de référence",
+    "p-4": "Des interactions permanentes entre soignants",
+    "p-5": "Pas d’investissement en matériel requis",
+    "p-6": "Secrétariat (facturation, rendez-vous, …) pris en charge",
+    "p-7": "Type de collaboration modulable : à discuter"
+  },
+
+  "modal-validation": {
+    "nom": "Nom est requis",
+    "prenom": "Prénom est requis",
+    "date": "le temps doit être entre 8:30 et 18:00",
+    "email-valid": "Email invalide",
+    "email": "L'email est requis",
+    "message": "Le message est requis",
+    "phone": "le numéro de télèphone est requis",
+    "medecins": "Il faut choisir un medecin",
+    "file": "Sélectionner un fichier svp"
+  },
+  "Slider": {
+    "title": "Maison Médicale",
+    "soustitle": "SAINT-GUIDON",
+    "content": "La MMSG est une maison médicale mettant à votre disposition une équipe pluridisciplinaire pour répondre au mieux à vos besoins de santé.",
+    "title-rdv": "PRENDRE RENDEZ-VOUS",
+    "p-rdv": "Prenez rendez-vous par téléphone au +32 2 527 97 90 ou remplissez le formulaire sur notre site internet.",
+    "btn-rdv": "PRENDRE RDV",
+    "title-press": "PRESCRIPTION",
+    "p-press": "Demandez une prescription à votre médecin rendez-vous. Ce service est pour les patients qui ont un traitement chronique uniquement.",
+    "btn-press": "PRESCRIPTION"
+  },
+  "equipe": {
+    "title": "Notre",
+    "soustitle": "équipe soignante est là pour vous"
+  },
+
+  "soins": [
+    {
+      "title": "Médecine Générale",
+      "content": "La médecine générale est une spécialité médicale qui assure le suivi des patients et leurs soins médicaux généraux primaires. Le médecin généraliste (appelé aussi médecin de famille) est le plus souvent consulté pNOS diagnostiquer une maladie avant de la traiter ou de rediriger le patient vers un autre spécialiste.",
+      "img": "/general-1.jpg",
+      "slug": "medecine-generale"
+    },
+    {
+      "title": "Soins Infirmiers",
+      "content": "Les soins infirmiers sont les soins accordés aux individus de tous âges, malades ou bien-portants. Ils se concentrent sur la promotion de la santé, la prévention de la maladie et les soins dispensés aux malades. Ils englobent aussi d’autres domaines comme la recherche, l’éducation à la santé et la gestion des systèmes de santé des patients. ",
+      "img": "/nursing-1.webp",
+      "slug": "soins-infirmiers"
+    },
+    {
+      "title": "Prélèvements",
+      "content": "Notre centre de prélèvements permet de faire toutes sortes de prélèvements.",
+      "img": "/prelevement.webp",
+      "slug": "prelevements"
+    },
+    {
+      "title": "Kinésithérapie",
+      "content": "La kinésithérapie est une discipline paramédicale qui utilise les massages, les mouvements et exercices physiques dans le but de renforcer, maintenir ou rétablir les capacités fonctionnelles. La maison medicale Saint Guidon met à votre disposition une équipe multidisciplinaire spécialisée mixte (homme/femme).",
+      "img": "/kinesithearpy-2.webp",
+      "slug": "kinesitherapie"
+    },
+    {
+      "title": "Psychothérapie ",
+      "content": "La psychologie clinique est la science qui traite psychologie individuelle et sociale, normale et pathologique ; elle concerne toutes les tranches d’âge le nouveau-né, l'enfant, l'adolescent, l'homme mûr et enfin les personnes âgées. Le psychologue clinicien remplit 3 grandes fonctions : de diagnostic, de formation, d'expert, apportant le point de vue du psychologue auprès d'autres spécialistes. Le psychothérapeute, contribue au bien être des patients par la solide expérience psychanalytique et son dévouement personnelle.",
+      "img": "/psychotherapie.jpeg",
+      "slug": "psychotherapie"
+    },
+    {
+      "title": "Nutrition et diététique",
+      "content": "La diététique est le socle des règles de l’équilibre alimentaire, elle permet une bonne santé par la connaissance des aliments. La nutrition, quant à elle, est une science qui analyse la composition des aliments, les nutriments et la façon dont ils sont assimilés par le corps puis transformés en énergie. Les deux notions sont donc nécessaires pNOS une compréhension globale de nos besoins alimentaires",
+      "img": "/nutrition-2.webp",
+      "slug": "nutrition-et-dietetique"
+    },
+    {
+      "title": "Logopédie",
+      "content": "Lalogopédie est la science de la communication et du langage au sens large du terme. ",
+      "img": "/speech-1.jpg",
+      "slug": "logopedie"
+    }
+  ],
+  "soins-content": {
+    "title": "NOS",
+    "soustitle": "SOINS",
+    "desc": "Nous sommes là pour vos soins.",
+    "soins-title": "Nos",
+    "soins-soustitle": "Services De Médecine",
+    "soins-desc": "La Maison Médicale Saint-Guidon est composée d’une équipe de médecins généralistes, d’infirmiers et de kinésithérapeutes. Chacun s’assure de vous fournir un service de soin de qualité pour veiller à votre bonne santé. ",
+    "btn": "En savoir plus",
+    "btn-soins": "VOIR TOUS LES SOINS"
+  },
+
+  "m-generale": {
+    "title": "LA MEDECINE GENERALE,",
+    "soustitle": "C'EST QUOI ?",
+    "desc": "La médecine générale est une spécialité médicale qui assure le suivi des patients et leurs soins médicaux généraux primaires. Le médecin généraliste (appelé aussi médecin de famille) est le plus souvent consulté pour diagnostiquer une maladie avant de la traiter ou de rediriger le patient vers un autre spécialiste.",
+    "infos-title": "INFOS PRATIQUE",
+    "infos": "La Maison médicale met à la disposition de ses patients inscrits, plusieurs médecins généralistes disponibles sur rendez-vous aux heures d'ouvertures.",
+    "Horaire-title": "HORAIRES",
+    "horaire-1": "À la maison médicale sur rendez-vous aux heures d’ouvertures",
+    "horaire-2": "Visite à domicile sur rendez-vous"
+  },
+  "infirmier": {
+    "title": "LES SOINS INFERMIERS,",
+    "soustitle": "C'EST QUOI ?",
+    "desc": "Les soins infirmiers sont les soins accordés aux individus de tous âges, malades ou bien-portants. Ils se concentrent sur la promotion de la santé, la prévention de la maladie et les soins dispensés aux malades. Ils englobent aussi d’autres domaines comme la recherche, l’éducation à la santé et la gestion des systèmes de santé des patients. ",
+    "infos-title": "ACTIVITES",
+    "activite-1": "Les soins courants",
+    "activite-2": "Les soins spécifiques",
+    "activite-3": "Les soins infirmiers à domicile",
+    "activite-4": "Autres soins infirmiers",
+    "Horaire-title": "HORAIRES",
+    "horaire-1": "Sur rendez-vous"
+  },
+  "prelevements": {
+    "title": "PRÉLÈVEMENTS,",
+    "soustitle": "C'EST QUOI?",
+    "desc": "Notre centre de prélèvements permet de faire toutes sortes de prélèvements:",
+    "desc-1": "Frottis",
+    "desc-2": "Prises de sang",
+    "desc-3": "PCR Covid-19",
+    "desc-4": "Dépistage des allergies",
+    "desc-5": "Test de tolérance au lactose ",
+    "desc-6": "Échantillons d'urines, de selles, de sperme, …",
+    "desc-7": "Dépistage des maladies sexuellement transmissibles",
+    "desc-8": "Autres ...",
+    "infos-title": "INFOS PRATIQUE",
+    "infos": "Pour pouvoir faire un prélèvement, il faut se munir d'une demande émanant d'un médecin",
+    "Horaire-title": "HORAIRES",
+    "horaire-1": "À la maison médicale sur rendez-vous aux heures d’ouvertures",
+    "horaire-2": "Visite à domicile sur rendez-vous"
+  },
+  "kine": {
+    "title": "LA KINESITHERAPIE,",
+    "soustitle": "C'EST QUOI ?",
+    "desc": "La kinésithérapie est une discipline paramédicale qui utilise les massages, les mouvements et exercices physiques dans le but de renforcer, maintenir ou rétablir les capacités fonctionnelles. La maison medicale Jubilé met à votre disposition une équipe multidisciplinaire spécialisée mixte (homme/femme).",
+    "infos-title": "ACTIVITES",
+    "activite-1": "Revalidation après une opération",
+    "activite-2": "Service à domicile pour les patients incapables de se déplacer",
+    "activite-3": "Thérapie post-natale",
+    "activite-4": "Autres ...",
+    "Horaire-title": "HORAIRES",
+    "horaire-1": "Sur rendez-vous"
+  },
+  "psy": {
+    "title": "LA PSYCHOLOGIE CLINIQUE,",
+    "soustitle": "C'EST QUOI ?",
+    "desc": "La psychologie clinique est la science qui traite psychologie individuelle et sociale, normale et pathologique ; elle concerne toutes les tranches d’âge le nouveau-né, l'enfant, l'adolescent, l'homme mûr et enfin les personnes âgées. Le psychologue clinicien remplit 3 grandes fonctions : de diagnostic, de formation, d'expert, apportant le point de vue du psychologue auprès d'autres spécialistes. Le psychothérapeute, contribue au bien être des patients par la solide expérience psychanalytique et son dévouement personnelle.",
+    "infos-title": "PAIMENT",
+    "infos": "Les soins de psychothérapie ne sont pas inclus dans le forfait, les patients de la maison médicale ont un tarif préférentiel.",
+    "Horaire-title": "HORAIRES",
+    "horaire-1": "À la maison médicale sur rendez-vous aux heures d’ouvertures"
+  },
+  "nutrition": {
+    "title": "LA NUTRITION ET LA DIETETIQUE,",
+    "soustitle": "C'EST QUOI ?",
+    "desc": " La diététique est le socle des règles de l’équilibre alimentaire, elle permet une bonne santé par la connaissance des aliments. La nutrition, quant à elle, est une science qui analyse la composition des aliments, les nutriments et la façon dont ils sont assimilés par le corps puis transformés en énergie. Les deux notions sont donc nécessaires pour une compréhension globale de nos besoins alimentaires",
+    "infos-title": "PAIMENT",
+    "infos": "Les soins de psychothérapie ne sont pas inclus dans le forfait, les patients de la maison médicale ont un tarif préférentiel.",
+    "Horaire-title": "HORAIRES",
+    "horaire-1": "À la maison médicale sur rendez-vous aux heures d’ouvertures"
+  },
+  "logopedie": {
+    "title": "LA LOGOPEDIE,",
+    "soustitle": "C'EST QUOI?",
+    "desc": "La logopédie est la science de la communication et du langage au sens large du terme.",
+    "desc-": "Ses domaines de spécialisation sont vastes et nombreux : ",
+    "desc-1": "toutes les pathologies du langage oral, de la voix, ",
+    "desc-2": "toutes les pathologies du langage écrit, ",
+    "desc-3": "toutes les pathologies des troubles logico-mathématiques, ",
+    "desc-4": "toutes les pathologies de la déglutition et des ",
+    "desc-5": "toutes les pathologies troubles cognitifs, ",
+    "desc--": "Quelle que soit leur origine, chez l’enfant, l’adolescent, l’adulte et la personne âgée. ",
+    "desc---": "L'intervention du logopède s'inscrit dans une démarche de préventionet d'évaluation pour les troubles cités préalablement. Il a également pour mission de développer, de restaurer et/ou de préserver les compétences communicationnelles de patients qui lui sont confiés.",
+    "desc----": "Pour ce faire, il prend en compte le contexte de vie et la demande du patient. Il s'appuie également sur des données scientifiques en faisant preuve de respect, de bienveillance et d'empathie, valeurs professionnelles fondamentales.",
+    "infos-title": "INFOS PRATIQUE",
+    "infos": "Pour pouvoir faire un prélèvement, il faut se munir d'une demande émanant d'un médecin",
+    "Horaire-title": "HORAIRES",
+    "horaire-1": "À la maison médicale sur rendez-vous aux heures d’ouvertures",
+    "horaire-2": "Visite à domicile sur rendez-vous"
+  },
+  "autres-soins": {
+    "title": "AUTRES",
+    "soustitle": "SOINS"
+  },
+
+  "infos": [
+    {
+      "title": "À Propos De Nous",
+      "content": "Toute l’équipe de la Maison Médicale Saint Guidon veille à répondre au mieux à vos instances et à vos besoins.",
+      "btn": "En Savoir Plus",
+      "slug": "informations/#a-propos-de-nous"
+    },
+    {
+      "title": "L'Équipe",
+      "content": "Une équipe médicale pluridisciplinaire afin de permettre une prise en charge global du patient.",
+      "btn": "En Savoir Plus",
+      "slug": "informations/#equipe"
+    },
+    {
+      "title": "CPAS",
+      "content": "La Maison Médicale Saint Guidon est conventionnée avec le service du CPAS de Molenbeek-Saint-Jean.",
+      "btn": "En Savoir Plus",
+      "slug": "informations/#cpas"
+    }
+  ],
+  "infos-content": {
+    "infos": "NOS INFORMATIONS",
+    "title": "NOS",
+    "soustitle": "INFORMATIONS",
+    "btn": "PLUS D'INFORMATIONS",
+
+    "apropos": "À PROPOS",
+    "apropos-soustitle": "DE NOUS",
+    "apropos-desc": "Soucieuse de répondre au mieux à vos demandes et à vos besoins, la Maison Médicale Jubilé met à votre disposition une équipe pluridisciplinaire de spécialistes qualifiés capables d’assurer différents services dans les domaines dits nécessaires. Nous tâchons de réaliser ces accompagnements individuels dans une perspective plus collective et de santé publique ; de promotion de la santé. Notre proximité avec le public local permet de favoriser une meilleure qualité d'écoute envers lui, facilitant ainsi notre intervention dans la gestion de sa santé.",
+    "apropos-mission-title": "NOTRE MISSION",
+    "apropos-mission-desc": "La mission de MMSG est de profiter de son ancrage local pour traiter chaque patient dans sa globalité, en considérant son état physique, mais aussi social, psychologique, économique, et en attachant de l’importance à développer son autonomie. Sa proximité permet à tous les patients de prendre sa place et de s’exprimer sur ses besoins et ses craintes ; la relation soignant patient est valorisée. ",
+    "apropos-vision-title": "NOTRE VISION",
+    "apropos-vision-desc": "Ni le budget, le temps ou la distance ne doivent pas représenter une entrave à votre accès aux soins de santé. C’est pourquoi nous avons créé la Maison Médicale Saint-Guidon.",
+
+    "horaire-title": "NOS",
+    "horaire-soustitle": "HORAIRES D'OUVERTURE",
+    "horaire-btn": "PRENDRE RDV",
+
+    "paiment": "PAIEMENT",
+    "paiment-title": "Services et Modalités de Paiement",
+    "paiment-desc": "Dans une maison médicale au forfait, les patients ne payent pas les frais de consultation et de visite à domicile. Ces soins sont couverts par le forfait, c'est la mutuelle qui verse mensuellement à la maison médicale une somme forfaitaire fixe pour couvrir les soins du patient. Seules les consultations des spécialistes ne sont pas incluses dans le forfait.",
+    "paiment-inscription-title": "Inscription",
+    "paiment-inscription-desc": "Inscrivez-vous pour bénéficier des avantages des membres de la maison médicale Jubilé",
+    "paiment-consultation-title": "Consultation",
+    "paiment-consultation-desc": "Vous avez choisis et réservé votre consultation, vous pouvez en bénéficier les services",
+    "paiment-regle-title": "C'est réglé",
+    "paiment-regle-desc": "Si vous avez bénéficié des services de la médecine générale ou des soins infirmiers ; pour vous c’est réglé, il n’y a rien à payer !",
+
+    "equipe": "NOTRE EQUIPE",
+    "equipe-soustitle": "SOIGNANTE",
+    "equipe-dr-1": "Dr. ZEKHNINI Mohammed ",
+    "equipe-dr-2": "Dr. WASHIWAPA Rachel",
+    "equipe-dr-3": "Dr. EL HAJJAMI Fatiha ",
+    "equipe-dr-4": "Dr. LIGOT Nadine ",
+    "equipe-dr-5": "Dr. RAMADAN Sobhi",
+    "equipe-dr-6": "Dr. CHERQUAOUI Ibtissam",
+    "equipe-dr-7": "Dr. PIEQ Clémence ",
+    "equipe-dr-8": "Dr. BENENGUEYE Lorenzo",
+    "equipe-dr-9": "Dr NINDABA Divine",
+    "equipe-dr-10": "Dr.ELKHIYAT Iman ",
+    "equipe-dr-11": "Dr BELKAHIA Walid ",
+    "equipe-job": "MEDECIN",
+    "img-1": "/3774299.png",
+
+    "candidature": "POUR",
+    "candidature-soustitle": "LA CANDIDATURE",
+    "candidature-head": "Pour accroître et consolider son développement au service de ses patients, la maison médicale Saint-Guidon est continuellement à la recherche des profils suivants : ",
+    "candidature-job-1": "Médecins généralistes agrées ",
+    "candidature-job-2": "Assistants en médecine générale ",
+    "candidature-job-3": "Kinésithérapeutes",
+    "candidature-job-4": "Infirmiers",
+    "candidature-job-5": "Dentistes",
+    "candidature-btn": "CANDIDATURE",
+
+    "cpas-soustitle": "CPAS",
+    "cpas-p-1": "Convaincue de son rôle de promouvoir la santé et la médecine générale la maison médicale jubilé est conventionné avec le service du CPAS.",
+    "cpas-p-2": "L’Aide Médicale Urgente (AMU) est une forme d’aide sociale octroyée par les CPAS. Elle a pour objectif de garantir l’accès aux soins médicaux des personnes sans séjour légal. ",
+    "cpas-p-3": "Le droit à l’AMU a été inscrit dans la loi sur les CPAS du 8 juillet 1976 à l’article 57§2 et défini plus concrètement dans un Arrêté Royal du 12 décembre 1996.",
+    "cpas-pers-titre": "Personnes concernées ;",
+    "cpas-pers-p-1": "Les citoyens de l’Union ayant la qualité de demandeurs d’emploi (et les membres de leur famille)",
+    "cpas-pers-p-2": "Les citoyens de l’Union ayant la qualité d’étudiant ou de citoyen économiquement non-actif (et les membres de leur famille), chaque fois pendant les trois premiers mois suivant la délivrance de l’annexe 19 ou 19ter",
+    "cpas-pers-p-red": "Le patient a l’obligation d'avoir sa carte médicale à jour pour bénéficier des soins au sein de la maison médicale.",
+
+    "cpas-aide-titre": "Aide Médicale Urgente",
+    "cpas-aide-p": "Le droit à l'AMU a été inscrit dans la loi sur les CPAS du 08/07/1976 et défini plus concrètement dans un Arrêté Royal du 12/12/1996.",
+    "cpas-cpas-titre": "CPAS",
+    "cpas-cpas-p": "Tout savoir concernant les aides et les services des 19 Centres Publics d'action Sociale (CPAS) de la Région de Bruxelles-Capitale.",
+
+    "faq": "FAQ",
+    "question-1": "C'est quoi une Maison Médicale ?",
+    "answer-1": "Une maison médicale est un centre de santé constitué d’une équipe pluridisciplinaire qui vise à apporter au patient un suivi complet à long terme. Ceci en mettant à sa disponibilité les différents services dont il a besoin habituellement en termes de soins de santé tout en valorisant la relation soignant patient.",
+    "question-2": "Comment faire pour s'inscrire ?",
+    "answer-2": "Présentez-vous à l’accueil avec une pièce d’identité sans prendre rendez-vous. Dans le cas d’enfant mineur, il peut être inscrit par un parent sans être présent.",
+    "question-3": "Le forfait ? Comment ça marche ?",
+    "answer-3": "Le mode de financement traditionnel des soins de santé est celui nommé à l'acte. Ce système consiste à payer le prestataire de soins pour ensuite se faire rembourser une partie de ce montant par la mutuelle.",
+    "question-4": "Combien ça coûte ?",
+    "answer-4": "Ça ne vous coûte rien du tout ! C'est la mutuelle qui verse mensuellement une somme forfaitaire fixe à la maison médicale pour vos soins.",
+    "question-5": "Quels sont les services inclus dans le forfait ?",
+    "answer-5": "* La médecine générale (les consultations, les visites à domicile, les actes sont payés par la mutuelle) * Les soins infirmiers (à domicile compris)",
+    "question-6": "Est-ce que j'ai le droit d'aller consulter un autre médecin ?",
+    "answer-6": "Vous pouvez consulter d'autres médecins spécialistes en dehors de la Maison Médicale et vous serez remboursés d'une manière normale. Par contre, vous ne pouvez pas consulter à l'extérieur de la maison médicale pour ce qui est inclus dans le forfait. C'est-à-dire : la médecine générale et les soins infirmiers.",
+    "question-7": "D'autres questions ?",
+    "answer-7": "Bien entendu, n'hésitez pas à nous contactez afin d'avoir d'avantage d'informations. "
+  },
+  "emploie": {},
+  "blog": [
+    {
+      "title": "Les nouveautés santé en 2024",
+      "date": "juin 21, 2023 à 08:12",
+      "cat": "Générale",
+      "content": "Antibiotiques sans ordonnance, préservatifs féminins remboursés, médicaments à l'unité... Plusieurs mesures de santé vont être effectives à partir du 1er janvier 2024.",
+      "slug": "les-nouveautes-sante-en-2024",
+      "img": "/blog-img-1.jpg"
+    },
+    {
+      "title": "Cuisson vapeur : faut-il l'adopter",
+      "date": "juin 21, 2023 à 08:12",
+      "cat": "Nutrition",
+      "content": "Depuis l'apparition du feu à la préhistoire, l'homme a mis au point de nombreux moyens de cuire ses aliments. Mais quel est l'intérêt de chauffer ses aliments avant de les manger ? La cuisson des aliments permet de les rendre plus digestes et de faciliter la mastication (1). Crus, certains aliments possèdent des facteurs antinutritionnels que la cuisson va détruire. Par exemple, explique la Dre Juliette Pouyat dans le guide Le bon choix pour cuisiner, 'l’amidon des pâtes ou du riz devient digeste après cuisson à l’eau grâce à une modification de sa structure plus favorable à l’action de l’amylase qui découpe l’amidon en molécules de glucose.' La température va aussi dénaturer les protéines, ouvrir leur structure repliée et faciliter l’action des enzymes digestives. Nous cuisons également les aliments pour les rendre comestibles, détruire les micro-organismes nuisibles et mieux les conserver. La cuisson permet aussi d'obtenir des arômes agréables qui proviennent de réactions chimiques regroupées sous le nom de réaction de Maillard. Mais cette réaction est à double tranchant : elle conduit à des saveurs très appréciées par le consommateur mais les molécules impliquées sont suspectées de favoriser le développement de certains cancers ou de réactions inflammatoires.  La cuisson peut cependant entraîner une dégradation de la qualité nutritionnelle de l’aliment, avec une perte en vitamines, dénaturées par la chaleur, et l'apparition de composés indésirables. Pour une cuisine saine, les atouts de la cuisson vapeur sont souvent vantés. ",
+      "slug": "cuisson-vapeur-:-faut-il-l'adopter",
+      "img": "/nutrition-blog-1.webp"
+    },
+    {
+      "title": "Intoxications alimentaires : menaces dans nos assiettes",
+      "date": "juin 21, 2023 à 08:12",
+      "cat": "Actualite",
+      "content": "Douleurs abdominales, vomissements, diarrhées, fièvre... ce sont les symptômes possibles d'une intoxication alimentaire, qui interviennent le plus souvent après avoir mangé un aliment contaminé par une bactérie, un virus, ou un parasite. Plus de 16 000 personnes en souffrent chaque année en France, selon les chiffres de Santé publique France. Les toxi-infections alimentaires, plus couramment appelées gastro ou intoxication alimentaire, regroupent plus de 200 maladies infectieuses différentes sont transmises par des aliments contaminés par des bactéries, des virus ou des parasites. Parmi les bactéries, les salmonelles représentent la cause la plus fréquente (42 % des cas) suivies par les Campylobacter (16 % des cas), les Bacillus cereus (15 %) et les staphylocoques (6 %). Côté parasite, les agents de la toxoplasmose (Toxoplasma gondii et Taenia saginata) arrivent en tête. Pour les virus, ce sont les norovirus (les rotavirus, les adenovirus entériques) qui prédominent.",
+      "slug": "",
+      "img": "/blog-img-3.jpg"
+    },
+    {
+      "title": "Chaleur : les vêtements rafraîchissants sont-ils vraiment efficaces",
+      "date": "juin 21, 2023 à 08:12",
+      "cat": "Actualite",
+      "content": "En période de vagues de chaleur ou de canicules, il n'est pas toujours évident de rester au frais. Certains vêtements promettent de vous rafraîchir mais que valent-ils vraiment ?",
+      "slug": "",
+      "img": "/blog-img-4.jpg"
+    },
+    {
+      "title": "Bien manger quand on a du cholestérol",
+      "date": "juin 21, 2023 à 08:12",
+      "cat": "Actualite",
+      "content": "En France, un adulte sur trois souffre d'hypercholestérolémie, c'est-à-dire d'un taux trop élevé de mauvais cholestérol. Et si suivre un régime est préconisé, il est toujours possible de continuer à se faire plaisir et à bien manger. Explications.",
+      "slug": "",
+      "img": "/doctors-bg-1.jpg"
+    },
+    {
+      "title": "Les nouveautés santé en 2024",
+      "date": "juin 21, 2023 à 08:12",
+      "cat": "Actualite",
+      "content": "Antibiotiques sans ordonnance, préservatifs féminins remboursés, médicaments à l'unité... Plusieurs mesures de santé vont être effectives à partir du 1er janvier 2024.",
+      "slug": "",
+      "img": "/doctors-bg-4.jpg"
+    },
+    {
+      "title": "Les nouveautés santé en 2024",
+      "date": "juin 21, 2023 à 08:12",
+      "cat": "Actualite",
+      "content": "Antibiotiques sans ordonnance, préservatifs féminins remboursés, médicaments à l'unité... Plusieurs mesures de santé vont être effectives à partir du 1er janvier 2024.",
+      "slug": "",
+      "img": "/blog-img-3.jpg"
+    },
+    {
+      "title": "Les nouveautés santé en 2024",
+      "date": "juin 21, 2023 à 08:12",
+      "cat": "Actualite",
+      "content": "Antibiotiques sans ordonnance, préservatifs féminins remboursés, médicaments à l'unité... Plusieurs mesures de santé vont être effectives à partir du 1er janvier 2024.",
+      "slug": "",
+      "img": "/blog-img-4.jpg"
+    }
+  ],
+  "blog-content": {
+    "title": "NOS",
+    "soustitle": "POSTS",
+    "blog": "BLOG",
+    "btn": "VOIR TOUS LES POST DU BLOG",
+    "search": "RECHERCHER",
+    "dernierpost": "DERNIERS POSTS",
+    "gallery": "PHOTOS"
+  },
+  "contact": {
+    "contact": "CONTACT",
+    "title": "CONTACTEZ",
+    "soustitle": "NOUS",
+
+    "horaire-title": "Horaire d’ouverture ",
+    "horaire": "De 08h30 à 18h",
+    "media": "Réseaux sociaux",
+
+    "form-nom": "Nom",
+    "form-prenom": "Prénom",
+    "form-tel": "Numéro de téléphone",
+    "form-email": "Email",
+    "form-message": "Votre message",
+    "form-adress": "Adresse",
+    "form-btn": "ENVOYER"
+  },
+
+  "footer": {
+    "about": "Soucieuse de répondre au mieux à vos demandes et à vos besoins, la Maison Médicale Saint-Guidon met à votre disposition une équipe pluridisciplinaire qui partage cet objectif. Nos spécialistes qualifiés assurent ainsi différents services dans les domaines dits nécessaires.",
+    "horaire": "Horaire d’ouverture : De 08h30 à 18h",
+    "adress": "187,  RueWayez à 1070 Anderlecht",
+    "tel": "+32 2 527 97 90",
+    "email": "infos@mmsg.be",
+
+    "mmsg": "La MMSG",
+    "li-1": "JOBS ET STAGES",
+    "li-2": "SOINS MÉDICAUX",
+    "li-3": "ACTUALITÉS",
+    "li-4": "ÉQUIPE",
+    "li-5": "MMSG",
+
+    "liens": "LIENS UTILES",
+    "contact": "CONTACT",
+    "faq": "FAQ",
+    "cpas": "CPAS",
+    "prescription": "PRESCRIPTION",
+    "rdv": "RENDEZ-VOUS",
+
+    "copy-right": "© 2024 Copyright Maison Médicale Saint-Guidon - BCE 0547.690.704"
+  }
+}
